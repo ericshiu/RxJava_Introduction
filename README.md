@@ -8,7 +8,7 @@ RxJava是Reactive Extensions的JVM實現的Library，
 同時抽像出對低級線程，同步，線程安全和並發數據結構等問題的關注。
 
 # 作者
-[<img src="https://imgur.com/iFnWJf3.png" height="70" width="70">](https://www.linkedin.com/in/hsiu-yi-chu/)
+[<img src="https://imgur.com/iFnWJf3.png" height="70" width="70">](https://www.linkedin.com/in/hsiu-yi-chu/)        [<img src="https://avatars0.githubusercontent.com/u/43841563?s=400&v=4" height="70" width="70">](https://github.com/biuecatneo)
 
 # **目錄**
 [TOC]
